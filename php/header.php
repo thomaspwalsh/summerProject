@@ -1,0 +1,1 @@
+<div id="header"><img src="../image/header.jpg" width="900" height="200"/></div>
